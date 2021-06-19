@@ -1,0 +1,4 @@
+sources:
+  "0.2.9":
+    url: "https://download.savannah.nongnu.org/releases/pngpp/png++-0.2.9.tar.gz"
+    sha256: "abbc6a0565122b6c402d61743451830b4faee6ece454601c5711e1c1b4238791"
